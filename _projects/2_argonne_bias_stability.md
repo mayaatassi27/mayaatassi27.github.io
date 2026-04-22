@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Detector Bias Stability in the Simons Observatory SAT
+permalink: /projects/detector-bias-stability/
 description: Analysis of TES detector bias stability under changing atmospheric loading conditions.
 img: 
 importance: 2
