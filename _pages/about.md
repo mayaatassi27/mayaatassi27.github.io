@@ -22,4 +22,4 @@ I have also worked on detector bias stability for the Simons Observatory at Argo
 
 Outside of research, I serve as Co-President of the University of Chicago Society of Physics Students, where I help organize talks, research panels, programming workshops, and community events. I also play violin in the University Symphony Orchestra.
 
-This site collects my research, projects, and a few things beyond physics that I care about as well! 
+This site collects my research, projects, and a few things beyond physics.
