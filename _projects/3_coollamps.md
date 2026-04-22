@@ -2,7 +2,7 @@
 layout: page
 title: Precision Photometry for Strongly Lensed Systems
 description: Multi-band photometry, calibration validation, and uncertainty propagation in the COOL-LAMPS collaboration.
-img: assets/img/7.jpg
+img: assets/img/IMG_9845.JPG
 redirect: https://unsplash.com
 importance: 3
 category: work
